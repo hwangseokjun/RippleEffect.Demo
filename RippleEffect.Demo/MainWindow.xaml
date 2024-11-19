@@ -1,0 +1,13 @@
+﻿<Window x:Class="RippleEffect.Demo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:shaders="clr-namespace:RippleEffect.UI;assembly=RippleEffect"
+        xmlns:local="clr-namespace:RippleEffect.Demo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <shaders:RippleButton Width="160" Height="80" Content="Ripple Effect" Foreground="White" TextElement.FontWeight="Bold"/>
+    </Grid>
+</Window>

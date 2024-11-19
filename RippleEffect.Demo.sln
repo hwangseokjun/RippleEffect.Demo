@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RippleEffect.Demo", "RippleEffect.Demo\RippleEffect.Demo.csproj", "{57194A2D-7584-4C7C-9C10-88C5E0E5BEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RippleEffect", "RippleEffect\RippleEffect.csproj", "{ECD6123A-28EA-4C12-B63B-8A9D0D8EF8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57194A2D-7584-4C7C-9C10-88C5E0E5BEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57194A2D-7584-4C7C-9C10-88C5E0E5BEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57194A2D-7584-4C7C-9C10-88C5E0E5BEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57194A2D-7584-4C7C-9C10-88C5E0E5BEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD6123A-28EA-4C12-B63B-8A9D0D8EF8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD6123A-28EA-4C12-B63B-8A9D0D8EF8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD6123A-28EA-4C12-B63B-8A9D0D8EF8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD6123A-28EA-4C12-B63B-8A9D0D8EF8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56992FAC-9B08-4559-A5A7-41224EB77B27}
+	EndGlobalSection
+EndGlobal
